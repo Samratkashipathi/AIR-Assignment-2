@@ -133,7 +133,7 @@ class Assignment2{
 				default:
 						System.out.println("Please Choose correct Option!");
      		}
-     		System.out.println("\n1 to continue,Press 0 to Quit:");
+     		System.out.println("\n1 to continue,Press 0 to Quit:-");
      		wish = sn.nextInt();
 		}
 	
